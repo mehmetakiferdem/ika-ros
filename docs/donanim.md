@@ -23,6 +23,8 @@ ros2 run ika_base hw_check pins --config <hardware.yaml>
 
 ## 40 pin header
 
+![40 pin bağlantı haritası](img/pinout.svg)
+
 Fiziksel pin = kart üzerindeki numara. Motor ve enkoder satırları kablolama
 şemasıyla birebir aynıdır; lidar ve çizgi sensörü satırları şemada olmayan eklerdir.
 
